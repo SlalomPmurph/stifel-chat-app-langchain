@@ -28,6 +28,10 @@ backend/pip-delete-this-directory.txt
 backend/.pytest_cache/
 backend/.coverage
 backend/htmlcov/
+backend/*.db
+backend/*.sqlite
+backend/*.sqlite3
+backend/stifel.db
 
 # OS
 .DS_Store
